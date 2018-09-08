@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+/* Counter Component CSS */
+.action{
+  padding:1rem 2rem;
+  font-weight:bold;
+  font-size:3rem;
+}
+
+.counter{
+    margin:0 2rem;
+    font-weight: bold;
+    font-size:2rem;
+}
